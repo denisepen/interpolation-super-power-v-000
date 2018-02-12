@@ -5,4 +5,4 @@ def display_rainbow(colors)
   I: #{colors[5]}, V: #{colors[6]}"
 end
 
-def display_rainbow(colors)
+display_rainbow(colors)
